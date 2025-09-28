@@ -14,11 +14,16 @@ env/
 *.ipynb
 
 # Data
-data/
-*.csv
-*.sqlite
-*.db
-*.pbix
+- data/
+- *.csv
+- *.sqlite
+- *.db
+- *.pbix
++ # data/
++ # *.csv
++ # *.sqlite
++ # *.db
++ # *.pbix
 
 # IDEs
 .vscode/
