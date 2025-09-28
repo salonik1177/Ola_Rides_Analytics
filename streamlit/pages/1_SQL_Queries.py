@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from App import run_query
+from app import run_query
 
 st.title("📊 SQL Query Explorer")
 

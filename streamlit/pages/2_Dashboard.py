@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from App import run_query
+from app import run_query
 
 st.set_page_config(page_title="Ola Rides – Dashboard", layout="wide")
 st.title("📊 Ola Rides – Interactive Dashboard (Streamlit)")
