@@ -109,7 +109,7 @@ Despite having access to large volumes of ride data, OLA faces challenges in con
 
 •	The Cancellation Rate by Vehicle Type remains fairly uniform (~0.37–0.39), indicating that cancellations are a platform-wide issue rather than vehicle-specific.
 
-# 5. Ratings & Customer Experience
+## 5. Ratings & Customer Experience
 
 <p align="center"> 
 <img src="powerbi/Ratings.png" width="700">
