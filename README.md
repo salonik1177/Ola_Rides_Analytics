@@ -53,3 +53,89 @@ Despite having access to large volumes of ride data, OLA faces challenges in con
 
 # Results & Key Insights: 
 
+## 1. Ride Volume & Operational Performance
+
+<p align="center"> 
+<img src="powerbi/Dashboard 1.png" width="700">
+</p>
+
+•	The Ride Volume Over Time chart shows consistent daily ride demand throughout the month, indicating stable platform usage.
+
+•	62.09% of rides are successfully completed, while cancellations account for a significant share, emphasizing the importance of operational improvements.
+
+•	Top pickup locations such as Banashankari, Yeshwanthpur, and RT Nagar contribute the highest ride volumes, as shown in the Top 5 Pickup Locations table.
+
+## 2. Revenue Insights
+
+<p align="center"> 
+<img src="powerbi/Revenue.png" width="700">
+</p>
+
+•	Total revenue reached ₹35.08M, with no single vehicle type overwhelmingly dominating revenue.
+
+•	The Revenue by Vehicle Type chart shows Prime Sedan leading marginally, followed closely by eBike, Auto, and Prime Plus—indicating a balanced demand across service tiers.
+
+•	The Revenue by Payment Method chart highlights a strong customer preference for Cash (₹19.3M) and UPI (₹14.2M), while card-based payments remain minimal.
+
+## 3. Vehicle Type Performance
+
+<p align="center"> 
+<img src="powerbi/Vehicle Type.png" width="700">
+</p>
+
+•	According to the Top Vehicle Types by Distance chart, Prime Sedan, eBike, and Bike have the highest average ride distances (15–16 km), while Auto rides are significantly shorter.
+
+•	Ride Volume by Vehicle Type is evenly distributed, suggesting diversified customer preferences across vehicle categories.
+
+•	Vehicle statistics tables show that Prime Sedan and eBike maintain strong booking values and consistent driver ratings.
+
+## 4. Cancellation Analysis
+
+<p align="center"> 
+<img src="powerbi/Cancellation.png" width="700">
+</p>
+
+•	The Cancellation dashboard reveals:
+     
+18K driver cancellations vs 10K customer cancellations
+
+•	Primary driver cancellation reasons:
+        Personal & car-related issues
+        Customer-related issues
+					   
+•	Major customer cancellation reasons include:
+        Driver not moving toward pickup
+		Driver requesting cancellation
+
+•	The Cancellation Rate by Vehicle Type remains fairly uniform (~0.37–0.39), indicating that cancellations are a platform-wide issue rather than vehicle-specific.
+
+# 5. Ratings & Customer Experience
+
+<p align="center"> 
+<img src="powerbi/Ratings.png" width="700">
+</p>
+
+•	Both average customer and driver ratings are 4.0, as highlighted by KPI cards.
+
+•	The Customer Ratings Distribution and Driver Ratings Distribution charts show most ratings concentrated between 3.5 and 4.5, reflecting generally positive service experiences.
+
+•	The Customer vs Driver Ratings table confirms consistent service quality across all vehicle types, with minimal variance.
+
+##
+# Business Recommendations
+
+1.	Optimize Driver Allocation
+Deploy more drivers during peak demand hours and in high-volume pickup locations to reduce cancellations and wait times.
+
+3.	Reduce Driver Cancellations
+Introduce incentive programs and better support mechanisms to address personal and vehicle-related driver issues.
+
+5.	Improve Customer Retention
+Use customer ride history and ratings to design personalized offers and loyalty programs.
+
+7.	Enhance Pricing Strategy
+Analyze surge pricing effectiveness and adjust dynamically based on demand, location, and vehicle type.
+
+9.	Fraud & Anomaly Detection
+Monitor incomplete rides and abnormal booking patterns to identify potential misuse or system inefficiencies.
+
